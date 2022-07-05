@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@babel/core": "7.12.3",
-    "@discordjs/opus": "^0.6.0",
+    "@discordjs/opus": "^0.8.0",
     "@discordjs/rest": "^0.1.0-canary.0",
     "@discordjs/voice": "^0.6.0",
     "@fosscord/ui": "^1.0.3",
